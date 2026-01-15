@@ -1,0 +1,245 @@
+{
+  "heading": "G6_Types Of Lines, Arms Of An Angle",
+  "topics": [
+    {
+      "heading": "Types Of Lines, Arms Of An Angle",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": ["A pair of intersecting lines is:"],
+    "options": [
+      { "text": "A) l,m" },
+      { "text": "B) l,n" },
+      { "text": "C) m,n" },
+      { "text": "BOTH A & B" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/1.png"
+  },
+  {
+    "questionNo": 2,
+    "question": ["Which of the following pair of lines is parallel?"],
+    "options": [
+      { "text": "m,n" },
+      { "text": "l,m" },
+      { "text": "k,n" },
+      { "text": "k,m" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 3,
+    "question": ["Point A lies on which line"],
+    "options": [
+      { "text": "PQ" },
+      { "text": "WX" },
+      { "text": "YZ" },
+      { "text": "None of these" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 4,
+    "question": ["What does the image show? Choose the best possible answer."],
+    "options": [
+      { "text": "Two lines" },
+      { "text": "Intersecting lines" },
+      { "text": "Perpendicular lines" },
+      { "text": "None of these" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 5,
+    "question": ["Identify the ray in the given figure."],
+    "options": [
+      { "text": "k" },
+      { "text": "m" },
+      { "text": "n" },
+      { "text": "None of these" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/5.png"
+  },
+  {
+    "questionNo": 6,
+    "question": ["Identify the line segment in the given figure."],
+    "options": [
+      { "text": "k" },
+      { "text": "m" },
+      { "text": "n" },
+      { "text": "None of these" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 7,
+    "question": ["Which statement about a straight line is true?"],
+    "options": [
+      { "text": "It has two endpoints" },
+      { "text": "It has one endpoint" },
+      { "text": "It extends forever in both directions" },
+      { "text": "None of these" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": ["Which of the following pairs of lines are parallel?"],
+    "options": [
+      { "text": "The sides of a letter X" },
+      { "text": "The rails of a railway track" },
+      { "text": "The hands of a clock at 3:00" },
+      { "text": "Two lines that cross each other" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": ["Two lines are perpendicular if they:"],
+    "options": [
+      { "text": "Never meet" },
+      { "text": "Meet at an acute angle" },
+      { "text": "Meet at a right angle" },
+      { "text": "Meet at a reflex angle" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 10,
+    "question": ["How many points are needed to draw a line segment?"],
+    "options": [
+      { "text": "One" },
+      { "text": "Two" },
+      { "text": "Three" },
+      { "text": "Four" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": ["Which of the following is not a line in the given figure?"],
+    "options": [
+      { "text": "AE" },
+      { "text": "AC" },
+      { "text": "DE" },
+      { "text": "BD" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/7.png"
+  },
+  {
+    "questionNo": 12,
+    "question": ["Identify the line segment longer than XY."],
+    "options": [
+      { "text": "WY" },
+      { "text": "XZ" },
+      { "text": "WZ" },
+      { "text": "All of these" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/8.png"
+  },
+  {
+    "questionNo": 13,
+    "question": ["If a ray is extended in the opposite direction from its endpoint, what does it become?"],
+    "options": [
+      { "text": "A longer ray" },
+      { "text": "A line segment" },
+      { "text": "A line" },
+      { "text": "None of the above" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 14,
+    "question": ["How many lines can be drawn through one given point?"],
+    "options": [
+      { "text": "One" },
+      { "text": "Two" },
+      { "text": "Many" },
+      { "text": "Zero" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": ["Which of the following is true about a perpendicular line?"],
+    "options": [
+      { "text": "It divides the line segment into two equal parts." },
+      { "text": "It forms a right angle at the point of intersection." },
+      { "text": "It never intersects with another line." },
+      { "text": "None of these" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 16,
+    "question": ["Identify the arms of angle 1 in the given figure."],
+    "options": [
+      { "text": "AB and BC" },
+      { "text": "BC and BD" },
+      { "text": "AD and BC" },
+      { "text": "AB and BD" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/9.png"
+  },
+  {
+    "questionNo": 17,
+    "question": ["The angle c is formed by the intersection of:"],
+    "options": [
+      { "text": "PQ and RS" },
+      { "text": "RQ and SO" },
+      { "text": "OS and OR" },
+      { "text": "OR and OP" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/10.png"
+  },
+  {
+    "questionNo": 18,
+    "question": ["Which of the following two rays are the arms of angle 4?"],
+    "options": [
+      { "text": "BE and AE" },
+      { "text": "BD and BC" },
+      { "text": "AB and BC" },
+      { "text": "BA and BE" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/11.png"
+  },
+  {
+    "questionNo": 19,
+    "question": ["How many angles are there inside the given shape?"],
+    "options": [
+      { "text": "3" },
+      { "text": "4" },
+      { "text": "5" },
+      { "text": "6" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/12.png"
+  },
+  {
+    "questionNo": 20,
+    "question": ["A pair of intersecting lines is:"],
+    "options": [
+      { "text": "A) AB, CE" },
+      { "text": "B) CD, EF" },
+      { "text": "C) NONE" },
+      { "text": "BOTH A & B" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/13.png"
+  }
+]
+
+
+    }
+  ]
+}
