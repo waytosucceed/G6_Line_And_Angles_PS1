@@ -44,12 +44,12 @@
     "questionNo": 4,
     "question": ["What does the image show? Choose the best possible answer."],
     "options": [
-      { "text": "Two lines" },
-      { "text": "Intersecting lines" },
-      { "text": "Perpendicular lines" },
-      { "text": "None of these" }
+      { "text": "A) Two lines" },
+      { "text": "B) Intersecting lines" },
+      { "text": "C) Perpendicular lines" },
+      { "text": "Both B and C" }
     ],
-    "answer": 2,
+    "answer": 3,
     "image": "./assests/images/question/4.png"
   },
   {
